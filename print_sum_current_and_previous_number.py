@@ -15,4 +15,17 @@ for i in range(1,11):
     # Variable called sum_of_previous_and_current_number and set it to previous_number + current_number
     sum_of_previous_and_current_number = previous_number + current_number
 
+     # Creating code with print indicating current_number, previous_number, and sum_of_previous_and_current_number
+    print(
+        "The current number is",
+        current_number,
+        "The previous number is",
+        previous_number,
+        "finally, the sum of them is",
+        sum_of_previous_and_current_number,
+    )
+
+    # Indicate previous_number to current_number
+    previous_number = current_number
+
 
