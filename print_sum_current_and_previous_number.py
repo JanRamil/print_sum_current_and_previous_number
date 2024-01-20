@@ -1,4 +1,5 @@
 # Print the sum of the current number and the previous number
+# Exercise 2
 
 #pseudocode
 
